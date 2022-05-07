@@ -2,14 +2,11 @@
 
 A Helium Monitor application for Nebra miners
 
-It monitors your nebra miner health status in intervals and notifies you 
-in case your miner misbehaves.
+It monitors your nebra miner health status in intervals and notifies you in case your miner misbehaves.
+After you install the Helium monitor it will ask you for you device IP address. (Press change to commit the changes)
 
-After you install the Helium monitor it will ask you for you
-device IP address. (Press change to commit the changes)
-
-It goes into tray icon (load's at startup) and the tray icon should
-change to red if your miner has an error.
+It goes into tray icon (load's at startup) and the tray icon should change to red if your miner has an error.
+Also it will popup a small dialog and play an alarm sound.
 
 btw, the installer is big because it has chrome embed libraries inside for the hellium explorer.
 
