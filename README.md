@@ -17,3 +17,5 @@ SSH monitoring is in works ....
 
 Join the unofficial nebra issue for more!
 https://discord.gg/JCmFwFVp
+
+![Hellium-Monitor](https://user-images.githubusercontent.com/13120950/167272319-89901bd9-76d7-43e7-a5c1-dbd75f094753.jpg)
