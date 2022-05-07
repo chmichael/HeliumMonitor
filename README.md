@@ -16,3 +16,4 @@ btw, the installer is big because it has chrome embed libraries inside for the h
 SSH monitoring is in works ....
 
 Join the unofficial nebra issue for more!
+https://discord.gg/JCmFwFVp
