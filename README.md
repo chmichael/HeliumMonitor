@@ -1,4 +1,4 @@
-# HeliumMonitor
+# Helium Monitor
 
 A Helium Monitor application for Nebra miners
 
