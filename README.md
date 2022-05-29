@@ -15,4 +15,21 @@ How to activate SSH your Nebra device: https://gist.github.com/fan4tix/55fd70b69
 Join the unofficial nebra for more!
 https://discord.gg/JCmFwFVp
 
+This software that is available free of charge except the "SSH functionality which is 
+provided only for people who donated". (Donation equal or more to 1 HNT for per 
+Device).
+
+You can also donate if you want to show your appreciation for this software!
+
+HNT donation address:
+13hPQztKrAEbvhNBq3udgLPZNAC38MorCzshoGVKebqfWHJuZ7j
+
+After you donate please contact me to get your ssh hash at:
+chmichael@creationpower.gr
+
+Also keep in mind that current version of the application supports only 1 Nebra Device.
+Multi-device monitoring might be available in a future release!
+
+Thank you
+
 ![h-monitor-092-272](https://user-images.githubusercontent.com/13120950/170890654-4964bba8-94f6-476e-953b-e0c3894118da.jpg)
