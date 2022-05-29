@@ -16,7 +16,7 @@ How to activate SSH your Nebra device:
 Join the unofficial nebra for more!
 - https://discord.gg/JCmFwFVp
 
-is software that is available free of charge except the "SSH functionality which is 
+this software that is available free of charge except the "SSH functionality which is 
 provided only for people who donated". (Donation equal or more to 1 HNT for per 
 Device).
 
