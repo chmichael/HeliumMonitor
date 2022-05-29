@@ -1,0 +1,8 @@
+Version 0.9.272:
+Added SSH monitoring support 
+Added Running Containers
+Implement Restart Miner/Reboot/PowerOff Device
+Various Fixes
+
+Version 0.3:
+First release
