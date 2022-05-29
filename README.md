@@ -25,7 +25,7 @@ HNT donation address:
 13hPQztKrAEbvhNBq3udgLPZNAC38MorCzshoGVKebqfWHJuZ7j
 
 After you donate please contact me to get your ssh hash at:
-chmichael@creationpower.gr
+(Click Donate inside the app to see the contact e-mail)
 
 Also keep in mind that current version of the application supports only 1 Nebra Device.
 Multi-device monitoring might be available in a future release!
