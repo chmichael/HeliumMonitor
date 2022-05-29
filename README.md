@@ -35,12 +35,12 @@ Thank you
 Change Log:
 ===================================================================================================
 Version 0.9.272:
-Added SSH monitoring support 
-Added Running Containers
-Implement Restart Miner/Reboot/PowerOff Device
-Various Fixes
+- Added SSH monitoring support
+- Added Running Containers
+- Implement Restart Miner/Reboot/PowerOff Device
+- Various Fixes
 
 Version 0.3:
-First release
+- First release
 
 ![h-monitor-092-272](https://user-images.githubusercontent.com/13120950/170890654-4964bba8-94f6-476e-953b-e0c3894118da.jpg)
