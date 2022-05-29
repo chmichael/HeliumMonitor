@@ -12,6 +12,8 @@ btw, the installer is big because it has chrome embed libraries inside for the h
 
 SSH monitoring is in works ....
 
+How to activate SSH your Nebra device: https://gist.github.com/fan4tix/55fd70b6900cd5e6fb9088b3334ba89e?permalink_comment_id=4027201
+
 Join the unofficial nebra issue for more!
 https://discord.gg/JCmFwFVp
 
